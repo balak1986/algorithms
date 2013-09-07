@@ -9,4 +9,9 @@
 *.classpath
 *.project
 .settings
+
+# java proj
 bin
+
+# maven
+target
