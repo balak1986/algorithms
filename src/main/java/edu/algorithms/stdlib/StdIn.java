@@ -1,4 +1,4 @@
-package edu.algorithams.stdlib;
+package edu.algorithms.stdlib;
 
 import java.util.Scanner;
 import java.util.regex.Pattern;
