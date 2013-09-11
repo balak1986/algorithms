@@ -1,4 +1,4 @@
 algorithms
 ==========
 
-Java Algorithms and Clients
+Java Algorithms and Clients - Corsera
