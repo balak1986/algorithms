@@ -5,8 +5,6 @@ package edu.algorithms.fundamentals;
 
 import java.util.Arrays;
 
-import edu.algorithms.stdlib.StdIn;
-
 /**
  * Takes N 2 array accesses to process sequence of N union commands on N
  * objects.
