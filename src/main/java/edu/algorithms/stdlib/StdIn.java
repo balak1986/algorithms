@@ -58,6 +58,7 @@ public final class StdIn {
 		return !scanner.hasNext();
 	}
 
+
 	/**
 	 * Does the input have a next line? Use this to know whether the next call
 	 * to {@link #readLine()} will succeed.
