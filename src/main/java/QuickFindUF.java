@@ -1,11 +1,8 @@
 /**
  * 
  */
-package edu.algorithms.fundamentals;
 
 import java.util.Arrays;
-
-import edu.princeton.cs.introcs.StdIn;
 
 /**
  * Takes N 2 array accesses to process sequence of N union commands on N
@@ -14,7 +11,7 @@ import edu.princeton.cs.introcs.StdIn;
  * @author bala
  * 
  */
-public class QuickFindUF implements UF {
+public class QuickFindUF {
     private int[] id;
 
     public QuickFindUF(int N) {
