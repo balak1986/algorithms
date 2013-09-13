@@ -59,4 +59,8 @@ public class QuickFindUF implements UF {
             System.out.println(Arrays.toString(uf.id));
         }
     }
+
+    public int[] getId() {
+        return id;
+    }
 }
